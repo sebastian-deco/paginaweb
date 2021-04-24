@@ -1,0 +1,17 @@
+scrum :metodologia o marco de trabajo ; 
+marco de trabajo:conjunto de conocimientos escrito en guias e libros
+metodologia :algo especifico de acuerdo asus restriciones o necesidades
+------------------------------------------------------------------------
+fases de scrum:inicio,planificacion y estimacion,implementacion,revision y retrospectiva ,lanzamiento
+inicio:preparamos el camino para trabajar con exito los sprints
+sprint: es un espacio de tiempo que va de 1 a 4 semanas en el cual debere desarrollar funcionalidades que otorguen valor a los stakeholders
+roles centrales: Product owner tiene en claro las reglas
+del negocio especialista en el tema dado, aprendiendo rápido
+de como trabajan las distintas empresas y representante
+(voz del cliente).
+scrum master : adaptación de procesos en  grandes proyectos
+Product backlog :producto formal que se guardan historias
+criterio de terminado:funcionalidad una de otra,(login de register,incio,etc)
+
+
+

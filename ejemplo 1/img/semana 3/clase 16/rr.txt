@@ -1,0 +1,6 @@
+css:guarda hojas de estilo(Imp)
+files:guarda documentos word,etc
+fonts:
+img: guarda imagenes(Imp)
+js:java script(Imp)
+media:archivos multi media 

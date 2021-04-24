@@ -1,0 +1,12 @@
+la variable se crean en la memoria ram
+la variable es una repartición porcentual en la memoria
+Variable: Contenedor temporal para almacena información según su tipo.
+Una variable es el nombre que se le da a una posición de la memoria del computador en el cual se almacena información. La información se puede encontrar, actualizar o recuperar. Las variables responden a un tipo de dato
+----------------------------------------------------------------------------------------------
+caracteristicas de un algoritmo:
+preciso
+definido
+finito
+--------------------------------------------------------------
+edad no es decimal es entero
+peso es decimal no entero

@@ -1,0 +1,6 @@
+<Font color="blue">hola</Font>
+font --> etiqueta
+color -->atributo(color)
+"blue" --> valor
+size -->atributo(tamaño)
+"50" -->valor
